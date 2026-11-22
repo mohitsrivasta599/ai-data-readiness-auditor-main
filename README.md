@@ -22,7 +22,7 @@ without needing an API key or internet connection.
 
 ## Quick Start
 
-**🚀 Live demo:** **<https://ai-data-readiness-auditor.streamlit.app/>** — try it
+**🚀 Live demo:** https://ai-data-readiness-auditor-main-qd6.streamlit.app/— try it
 in your browser, no install required.
 
 To run it locally:
@@ -341,17 +341,4 @@ example.
 
 ---
 
-## Author
 
-**Gustavo Angulo**
-GitHub: [@Sviless](https://github.com/Sviless)
-
-Built as a data analytics / business intelligence portfolio project.
-
-## License
-
-Released under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
-_Built with Python, Streamlit, pandas, numpy, SQLite, openpyxl, and Plotly Express._
